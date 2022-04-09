@@ -85,4 +85,3 @@ serverless invoke --function playSong --aws-profile serverless --region eu-west-
 
 ## Credits
 - Parts of this code was inspired by https://github.com/davidski/spotify-lambda
-# serverless-spotify
